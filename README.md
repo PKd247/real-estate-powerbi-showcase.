@@ -33,7 +33,8 @@ Every report built by hand is another chance for a mistake: a wrong currency lab
 4. **Reports.** Each report is defined by one specification file. Running the build produces a complete Power BI project with every page, visual, bookmark and theme.
 5. **Documentation.** Manifests record every page and visual, so the guides write themselves.
 
-![A report specification and the finished report](images/report-spec.png)
+!<img width="960" height="540" alt="report-gallery" src="https://github.com/user-attachments/assets/9e1f992c-cfc7-4ccc-916d-cb440332c369" />
+
 
 ## Quality gate
 
@@ -49,7 +50,8 @@ A rulebook runs on every build. If a rule fails, the build names it and nothing 
 
 ## Example reports
 
-![Gallery of generated reports](images/report-gallery.png)
+!<img width="960" height="540" alt="report-spec" src="https://github.com/user-attachments/assets/566d2b99-75f4-4cf1-8f70-8a2e54da9ab0" />
+
 
 Reports in the suite include Metric Explorer, Agent Profile, Income Statement, Lead Quality, Project Schedule, Landlord Statement, Price Changes, KYC Overview, Lease Renewals Due, and Occupancy and Vacancy.
 
