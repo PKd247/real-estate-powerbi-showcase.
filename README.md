@@ -65,7 +65,7 @@ An Obsidian vault maps how everything connects, from the semantic model to its t
 - Brokerages and agencies
 - Property managers and landlords
 
-## Work with me
+## let's connect
 
 If you'd like clear, consistent reporting for your real estate business, let's talk.
 
