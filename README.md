@@ -22,7 +22,7 @@ Every report built by hand is another chance for a mistake: a wrong currency lab
 | **Reports** | 39 Power BI reports |
 | **Documentation** | Client guide (Word and PDF), developer guide, screenshots and walkthrough videos |
 
-![Five-stage pipeline: data, model, measures, reports, docs](images/pipeline.png)
+![Pipeline](real-estate-powerbi-showcase/images/pipeline.png)
 
 ## How it works
 
